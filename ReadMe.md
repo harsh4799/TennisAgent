@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: https://github.com/ "Trained Agent"
+[image1]: https://github.com/blackrosedragon2/TennisAgent/blob/master/Media/tennis_agents.gif "Trained Agent"
 
 
 # Project 3: Collaboration and Competition
