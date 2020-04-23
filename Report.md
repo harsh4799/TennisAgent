@@ -26,11 +26,11 @@ In MADDPG, each agent has its own actor local, actor target, critic local and cr
 
 ## Training and Results
 
-![Training Results](https://github.com/blackrosedragon2/TennisAgent/blob/master/Media/training.png)
+![Training Results](https://github.com/blackrosedragon2/TennisAgent/blob/master/Media/training.PNG)
 
 I found training to be particularly challenging for my final MADDPG implementation. Initially, I had many issues getting the full implementation to work as expected. Even after the issues were fixed, the training was very unstable. A lot of hit and trail went into making the algorithm stable:
 
-![MADDPG Plot of Rewards](https://github.com/blackrosedragon2/TennisAgent/blob/master/Media/plot.png)
+![MADDPG Plot of Rewards](https://github.com/blackrosedragon2/TennisAgent/blob/master/Media/plot.PNG)
 
 The results above show that the training process followed a stable pattern, and the 100-episode rolling max score never went significantly down after solving the environment.
 
